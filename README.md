@@ -1,1 +1,1 @@
-# Quickbase Craft Demo for Json Similarity
+# Demo for Json Similarity
